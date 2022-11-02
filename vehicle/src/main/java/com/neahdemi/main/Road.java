@@ -1,5 +1,7 @@
-package com.neahdemi.vehicle;
+package com.neahdemi.main;
 
+import com.neahdemi.vehicle.Car;
+import com.neahdemi.vehicle.Vehicle;
 import java.util.Scanner;
 
 /**
@@ -11,7 +13,7 @@ Create subclasses like Car.
 Add common methods in the base class and specific methods in the corresponding class.
 Create a class called Road and create objects for the Car and display the appropriate message.
  */
-public class Main {
+public class Road {
     
     
     public static void main(String[] args) {
